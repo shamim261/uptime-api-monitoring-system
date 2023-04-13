@@ -10,8 +10,8 @@ environments.staging = {
     maxChecks: 5,
     twilio: {
         fromPhone: '+15074163570',
-        accountSID: 'ACa7c86233daa81539974ba30d8669b28e',
-        authToken: '3a3574ddab7ea1fbe60a5ad65452536b',
+        accountSID: '{Your Twilio Account SID Here}',
+        authToken: '{Your Twilio Account Auth Token Here}',
     },
 };
 environments.production = {
